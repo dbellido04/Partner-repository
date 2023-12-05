@@ -12,3 +12,4 @@ echo "Enter another number"
 
 read number
 
+#This is Thomas's edit
